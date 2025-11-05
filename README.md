@@ -41,19 +41,6 @@
 
 ---
 
-### 💼 Professional Experience  
-
-**🏢 Investment Manager — Squareyard**  
-📍 Bengaluru | *Jun 2024 – Oct 2024*  
-- Presented real estate investment opportunities and guided clients on ROI and risk.  
-- Managed end-to-end sales from lead generation to closure.  
-
-**💼 Executive — Nobroker Technology**  
-📍 Bengaluru | *Aug 2023 – Dec 2023*  
-- Resolved customer inquiries & collaborated with teams to enhance satisfaction and experience.  
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
